@@ -3,6 +3,7 @@ body {
 }
 
 img{
+  background-color: black;
     border-radius:800px;
     margin-right: 10px;
    
@@ -10,7 +11,7 @@ img{
 }
     
   .span{
-     text-decoration: underline;
+     text-decoration: underline;  
 }
     
 .username{
